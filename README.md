@@ -1,2 +1,2 @@
 # weckertest
-Tao deo biet
+tao kiem tra gi day
